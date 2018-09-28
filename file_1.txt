@@ -2,4 +2,7 @@ This is a sample file - F1
 
 Changed after first commit
 
-Modified F1 in brancj br_one
+Modified F1 in branch br_one
+
+Modified F1 - changed in branch Two
+
